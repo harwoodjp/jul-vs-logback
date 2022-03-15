@@ -1,0 +1,7 @@
+*.log
+*.lck
+.DS_STORE
+.idea/
+target/
+.fuse_hidden0000006c00000003
+.fuse_hidden0000009300000004
